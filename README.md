@@ -1,1 +1,1 @@
-# np-ai-generator
+# np-generator-ai
